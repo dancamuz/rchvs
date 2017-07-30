@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+Science-arch
+db.sqlite3
+.Ds_store
